@@ -1,0 +1,4 @@
+export const appKeys = {
+    api: 'a3ac8ad1c8476f5ebf57f563a1270677',
+    token: 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhM2FjOGFkMWM4NDc2ZjVlYmY1N2Y1NjNhMTI3MDY3NyIsInN1YiI6IjYxNTRkODEyZDIxNDdjMDA0NGRkMjNhZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Q0NVBFuARJHWqWYp_NdvEp5B5Nfr9ZreYh9m6AaJZS0' 
+}
